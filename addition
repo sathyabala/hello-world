@@ -1,0 +1,10 @@
+import java.io.*;
+class Add
+{
+public static void main(String args[])
+{
+scanner in = new scanner(System.in);
+c=in.nextInt();
+System.out.println("Enter your numbers to add");
+c=a+b;
+System.out.println("Your answer is:",c);}}
